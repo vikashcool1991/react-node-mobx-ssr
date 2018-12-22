@@ -162,9 +162,3 @@ Just adding a model file there is enough, the models are initialized when they a
 
 [MobX](https://mobxjs.github.io/mobx/)
 
-
-## Author
-
-Ryan Megidov
-
-<https://github.com/nightwolfz/mobx-starter>
